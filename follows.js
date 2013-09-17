@@ -14,7 +14,7 @@
 
 	var defaultKey		= 'rM6ULnZgggJZ8yJD3KJwKWoZmYDGBq7yPfMUpipDytxX92x6', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [1258549624], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Disel Level', // Replaces Xively logo in the header
+		applicationName	= 'The fuel tank in front of office 60 KVA', // Replaces Xively logo in the header
 		dataDuration	= '90days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 10800, // Default interval for data to be displayed (in seconds)
 		dataColor		= '', // CSS HEX value of color to represent data (omit leading #)
